@@ -4,36 +4,36 @@ Survey of Generative Text Steganography
 
 - 2017 Generating Steganographic Text with LSTMs （Fang）Waterloo University
 
-  - https://github.com/vincentballet/steganography-nn
+  - [https://github.com/vincentballet/steganography-nn (torch)](https://github.com/vincentballet/steganography-nn)
 
 - 2019 RNN-Stega: Linguistic Steganography Based  on Recurrent Neural Networks （Yang）Tshinghua University
 
-  - https://github.com/YangzlTHU/RNN-Stega（tf）
+  - [https://github.com/YangzlTHU/RNN-Stega (tf)](https://github.com/YangzlTHU/RNN-Stega)
 
 - 2019 Towards Near-imperceptible Steganographic Text （Dai and Cai）Chicago USA
 
-  - https://github.com/falcondai/lm-steganography
+  - [https://github.com/falcondai/lm-steganography (torch)](https://github.com/falcondai/lm-steganography)
 
 - 2019 Neural Linguistic Steganography （Ziegler）Havard University
 
-  - https://github.com/harvardnlp/NeuralSteganography
+  - [https://github.com/harvardnlp/NeuralSteganography (torch)](https://github.com/harvardnlp/NeuralSteganography)
   - [Encrypt (steganography.live)](https://steganography.live/)
 
 - 2020 Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding（Shen）Tshinghua University
 
-  - https://github.com/mickeysjm/StegaText
-
+  - [https://github.com/mickeysjm/StegaText (torch)](https://github.com/mickeysjm/StegaText)
+  
 - 2021 VAE-Stega: Linguistic Steganography Based on Variational Auto-Encoder（Yang）Tshinghua University
 
-  - https://github.com/YangzlTHU/VAE-Stega（tf）
+  - [https://github.com/YangzlTHU/VAE-Stega (tf)](https://github.com/YangzlTHU/VAE-Stega)
 
 - 2021 Linguistic Steganography Based on AdaptiveProbability Distribution（Zhou）China Agricultural University
 
-  - https://github.com/CAU-Tstega/text-steganography（tf）
+  - [https://github.com/CAU-Tstega/text-steganography (tf)](https://github.com/CAU-Tstega/text-steganography)
 
 - 2021 Provably Secure Generative Linguistic Steganography（Zhang）Tshinghua University
 
-  - https://github.com/Mhzzzzz/ADG-steganography
+  - [https://github.com/Mhzzzzz/ADG-steganography (torch)](https://github.com/Mhzzzzz/ADG-steganography)
 
 - 2021 Meteor: Cryptographically Secure Steganographyfor Realistic Distributions（Kaptchuk）Boston University
 
@@ -43,7 +43,7 @@ Survey of Generative Text Steganography
 
 - 2023 Discop: Provably Secure Steganography in PracticeBased on “Distribution Copies”（Ding）USTC
 
-  - https://github.com/comydream/Discop
+  - [https://github.com/comydream/Discop (torch)](https://github.com/comydream/Discop)
 
 
 ---
