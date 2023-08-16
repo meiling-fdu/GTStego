@@ -4,7 +4,7 @@ Survey of Generative Text Steganography
 
 - 2017 Generating Steganographic Text with LSTMs （Fang）Waterloo University
   - paper: https://aclanthology.org/P17-3017.pdf (ACLW 2017)
-  - code: [https://github.com/tbfang/steganography-lstm (torch)](https://github.com/tbfang/steganography-lstm)
+  - code: [https://github.com/tbfang/steganography-lstm (torch)](https://github.com/tbfang/steganography-lstm) & [https://github.com/vincentballet/steganography-nn (torch)](https://github.com/vincentballet/steganography-nn)
 
 - 2019 RNN-Stega: Linguistic Steganography Based  on Recurrent Neural Networks （Yang）Tshinghua University
   - paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8470163 (TIFS 2019)
