@@ -45,11 +45,13 @@ Survey of Generative Text Steganography
   - paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179287 (S&P 2023)
   - code: [https://github.com/comydream/Discop (torch)](https://github.com/comydream/Discop)
 
+- 2023 CM-TSTega: Cross-Modal Text Steganography Against Synonym Substitution-Based Text attack (Peng) Fudan University
+  - paper: https://ieeexplore.ieee.org/abstract/document/10075392 (SPL 2023)
+  - code: [https://github.com/hunanpolly/Cross-Modal-Steganography (torch)](https://github.com/hunanpolly/Cross-Modal-Steganography)
 
 ---
 
-
-Other GTStego-related peojects
+Other GTStego-related projects
 
 - https://github.com/TeamForSteganography/TextSteganography
 - [CQuintt/TwitterStego: Linguistic Steganography tool used to hide secret messages within tweets using the Twitter API (github.com)](https://github.com/CQuintt/TwitterStego)
